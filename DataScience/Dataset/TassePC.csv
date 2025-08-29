@@ -1,0 +1,33 @@
+paese,energia_ammontare,energia_percent_su_tassazione_totale,energia_ranking,di_cui_carburanti_per_autotrazione_ammontare,di_cui_carburanti_per_autotrazione_percent_su_tassazione_totale,di_cui_carburanti_per_autotrazione_ranking,geo
+Bulgaria,1642.0,8.74,1.0,1111.0,5.91,3.0,BG
+Lettonia,759.0,8.16,2.0,556.0,5.98,2.0,LV
+Grecia,4826.0,7.51,3.0,2729.0,4.25,9.0,EL
+Croazia,1263.0,6.79,4.0,1144.0,6.15,1.0,HR
+Romania,3879.0,6.75,5.0,2728.0,4.75,6.0,RO
+Estonia,602.0,6.59,6.0,401.0,4.39,8.0,EE
+Slovenia,1114.0,6.32,7.0,821.0,4.66,7.0,SI
+Polonia,11712.0,6.26,8.0,9206.0,4.92,5.0,PL
+Slovacchia,1965.0,6.11,9.0,1164.0,3.61,14.0,SK
+Italia,40297.0,5.71,10.0,21619.0,3.06,16.0,IT
+Lituania,859.0,5.63,11.0,859.0,5.63,4.0,LT
+Cipro,414.0,5.54,12.0,315.0,4.22,10.0,CY
+Portogallo,3599.0,5.1,13.0,2833.0,4.02,11.0,PT
+Repubblica Ceca,3881.0,5.0,14.0,2978.0,3.84,13.0,CZ
+Ungheria,2279.0,4.59,15.0,1957.0,3.95,12.0,HU
+Finlandia,4526.0,4.55,16.0,2713.0,2.73,18.0,FI
+Paesi Bassi,14318.0,4.51,17.0,7472.0,2.35,23.0,NL
+Francia,42121.0,4.01,18.0,26819.0,2.55,21.0,FR
+Belgio,7961.0,3.99,19.0,4476.0,2.24,24.0,BE
+Spagna,16020.0,3.88,20.0,11220.0,2.72,19.0,ES
+Irlanda,2781.0,3.72,21.0,2026.0,2.71,20.0,IE
+Malta,143.0,3.7,22.0,108.0,2.78,17.0,MT
+Svezia,7225.0,3.55,23.0,3412.0,1.68,26.0,SE
+Germania,47642.0,3.53,24.0,33511.0,2.49,22.0,DE
+Danimarca,5166.0,3.53,25.0,1942.0,1.33,27.0,DK
+Lussemburgo,818.0,3.32,26.0,791.0,3.21,15.0,LU
+Austria,4599.0,2.88,27.0,3468.0,2.17,25.0,AT
+Unione Europea,232411.0,,,148379.0,,,
+UE media pesata,,4.32,,,2.76,,
+Area Euro,195365.0,,,123901.0,,,
+EA 19 media pesata,,4.23,,,2.68,,
+Gli importi sono espressi in milioni di euro,,,,,,,
